@@ -1,0 +1,26 @@
+.body{
+    background-color: blanchedalmond;
+    
+}
+.family{
+    color: #ff6347;
+    background-color: #556b2f;
+    text-align: center;
+}
+h2{
+    color: #8b0000;
+    background-color: #70b4b4;
+    text-align: center;
+}
+p{
+    color: #2f4f4f;
+    text-align: center;
+}
+img{
+    width: 250px;
+    height: auto;
+    align-items: center;
+}
+.b{
+    font-size: larger;
+}

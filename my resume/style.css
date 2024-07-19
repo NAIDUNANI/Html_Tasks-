@@ -1,0 +1,28 @@
+.me{
+    width: 200px;
+    height: 210px;
+    border-radius: 50%;
+}
+
+.Resume{
+    text-align: center;
+    background-color: #F6995C;
+}
+.skills{
+    background-color: #9BB0C1;
+}
+.eduction{
+    background-color: #9BB0C1;
+}
+.project{
+    background-color: #9BB0C1;
+}
+.intern{
+    background-color: #9BB0C1;
+}
+.certificate{
+    background-color: #9BB0C1;
+}
+.ach{
+    background-color: #9BB0C1;
+}
